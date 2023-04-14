@@ -1,2 +1,3 @@
-# Rock-Paper-Sciccors
-A simple fun game written in python.
+# Password Checker
+
+Python code to verify strong passowrds.
